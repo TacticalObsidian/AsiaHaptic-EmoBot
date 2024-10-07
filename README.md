@@ -18,8 +18,3 @@ Members:
 -- Pyttsx3
 - Can remember conversation logs for user-robot interaction personalization
 -- Currently : Stores logs onto text file
--- OPTIONAL TODO : To allow personalization with specific users and robot
---- Current plan:
---- Uses JSON to store key information of user
---- Face image
---- Key moments in conversation
