@@ -9,11 +9,11 @@ Members:
 
 # Functions:
 - Facial Emotional detection and Gesture detection (yes/no nodding)
--   Uses haarcascade
+-- Uses haarcascade
 - Speech recognition
--   Uses Python's SpeechRecognition, PyAudio packages
+-- Uses Python's SpeechRecognition, PyAudio packages
 - AI speech generation
--   Uses GROQ AI
+-- Uses GROQ AI
 - Text-to-Speech
 -   Pyttsx3
 - Can remember conversation logs for user-robot interaction personalization
