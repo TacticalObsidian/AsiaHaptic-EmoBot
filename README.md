@@ -15,15 +15,11 @@ Members:
 - AI speech generation
 -- Uses GROQ AI
 - Text-to-Speech
--   Pyttsx3
+-- Pyttsx3
 - Can remember conversation logs for user-robot interaction personalization
--   Currently : Stores logs onto text file
--   OPTIONAL TODO : To allow personalization with specific users and robot
--     Current plan:
--       Uses JSON to store key information of user
--         Face image
--         Key moments in conversation
-
-# LOGS:
-- 7th OCT
--   TODO: Bug fixes
+-- Currently : Stores logs onto text file
+-- OPTIONAL TODO : To allow personalization with specific users and robot
+--- Current plan:
+--- Uses JSON to store key information of user
+--- Face image
+--- Key moments in conversation
